@@ -9,8 +9,7 @@
 
 int _putchar(char c)
 
-{
-	char c[] = _putchar;
+	c[] = _putchar;
 
 	_putchar(c[0]);
 	_putchar(c[1]);
