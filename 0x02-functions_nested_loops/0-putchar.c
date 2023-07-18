@@ -8,6 +8,7 @@
  */
 
 int _putchar(char c)
+{
 
 	c[] = _putchar;
 
